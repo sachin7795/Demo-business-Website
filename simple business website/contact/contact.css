@@ -1,0 +1,139 @@
+#navbar li{
+	float : left;
+	border : 1px solid black;
+	
+	height : 30px;
+	text-align : center;
+	font-family : forte;
+	font-size : 20px;
+	width : 100px;
+	margin-top : 10px;
+	
+}
+
+#drop #contact{
+	border : none;
+}
+
+#drop #slink{
+	border : none;
+}
+
+#navbar #lastbut{
+	height : 40px;
+	margin-top : 0px;
+	width : 110px;
+	font-size : 25px;
+}
+
+#navbar li a{
+	color : black;
+}
+
+#logo{
+	float : left;
+	margin-left : 0px;
+	margin-top : 20px;
+		margin-right : 5px;
+}
+
+#navbar{
+	float : right;
+	margin-right : 10px;
+	margin-top : 30px;
+	margin-bottom : 0px;
+}
+
+#drop li{
+	width : 150px;
+	
+}
+
+small{
+	margin-left : 5px;
+}
+
+#navh{
+	color : red;
+	float : left;
+	font-family : forte;
+}
+
+#lastbut{
+	border-top-right-radius : 10px;
+	background : red;
+	border-top-left-radius : 10px;
+}
+
+#firstbut{
+	border-top-left-radius : 10px;
+	
+	
+}
+
+footer{
+	background-color : black;
+	color : white;
+	font-weight : bold;
+	font-size : 15px;
+	font-family : calibri;
+	padding-left : 20px;
+	padding-top : 10px;
+	padding-right : 20px;
+	height : 110px;
+	border-bottom-left-radius : 10px;
+	border-bottom-right-radius : 10px;
+	margin-top : 0px;
+	
+}
+
+
+#foot{
+	float : right;
+}
+
+#footl{
+	float : left;
+}
+
+#foot img{
+	height : 50px;
+	width : 50px;
+}
+
+.well{
+	height : 50%;
+	margin-bottom : 0px;
+}
+
+
+#center{
+	text-align : center;
+	
+}
+
+#right,#left{
+	float : left;
+	width : 450px;
+	text-align : left;
+}
+
+#right img{
+	height : 200px;
+	margin-left : 10px;
+	width : 200px;
+	float : left;
+}
+
+#left{
+	margin-left : 120px;
+}
+
+input{
+	border-radius : 10px;
+	height : 30px;
+}
+
+.red{
+	color : black;
+}
